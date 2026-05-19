@@ -132,7 +132,7 @@ anitrack/
 cd C:\Users\SeuUsuario\Downloads\anitrack
 ```
 
-> 💡 Exemplos: `cd C:\Users\Arthur\Downloads\anitrack` ou `cd C:\Users\Bernardo\Downloads\anitrack`
+> 💡 Exemplos: `cd C:\Users\Benicio\Downloads\anitrack` ou `cd C:\Users\XXXXX\Downloads\anitrack`
 
 **4. Instalar as dependências (apenas na primeira vez)**
 
