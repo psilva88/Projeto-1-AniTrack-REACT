@@ -175,5 +175,3 @@ O projeto abrirá automaticamente em [http://localhost:3000](http://localhost:30
 > Para encerrar, pressione `Ctrl + C` no terminal.
 
 <p align="center">© 2026 AniTrack</p>
-
-mongodb+srv://Arthur:<db_password>@banana8.gf9qu3r.mongodb.net/?appName=Banana8
